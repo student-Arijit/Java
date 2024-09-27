@@ -1,7 +1,7 @@
 //Write a program to calculate the area of a circle
 import java.util.Scanner;
 
-public class Area {
+public class Q1 {
     public static final double PI = 3.14d;
     
     public static void main(String[] args) {
