@@ -1,4 +1,4 @@
-public class Main{
+public class addnum{
     public static void main(String[] args){
         int num1 = 10;//comment
         int num2 = 11;

@@ -1,7 +1,7 @@
 //find even odd numbers
 import java.util.Scanner;
 
-public class EveOdd{
+public class q2{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -11,5 +11,6 @@ public class EveOdd{
         } else {
             System.out.print("The number is Odd");
         }
+        scanner.close();
     }
 }

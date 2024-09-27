@@ -1,7 +1,7 @@
 //sum of two numbers
 import java.util.Scanner;
 
-public class sum{
+public class q1{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("enter a number:");
