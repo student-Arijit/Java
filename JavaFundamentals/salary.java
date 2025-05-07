@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class salary{
     public static double bonus(double salary, double point) {
         return point * salary;
     }
