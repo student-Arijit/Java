@@ -10,3 +10,4 @@ public class Grade {
         System.out.printf("%s", (grade >= 75) ? "DISTINCTION." : (grade >= 60) ? "FIRST DIVISION." : (grade >= 50) ? "SECOND DIVISION." : (grade >= 40) ? "THIRD DIVISION." : "FAIL.");
     }
 }
+
